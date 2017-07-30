@@ -50,3 +50,4 @@ capitals_dict = {
     'Wisconsin': 'Madison',
     'Wyoming': 'Cheyenne',
 }
+#new info
